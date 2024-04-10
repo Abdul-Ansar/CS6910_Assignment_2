@@ -16,7 +16,7 @@ This repository contains a Python script for training an image classification mo
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your_username/image-classification-vgg16.git
+   https://github.com/Abdul-Ansar/CS6910_Assignment_2.git
     ```
 
 2. Install the required dependencies:
