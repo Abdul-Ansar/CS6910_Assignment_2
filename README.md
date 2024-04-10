@@ -24,7 +24,7 @@ This repository contains code for a deep learning model designed for image class
 ### Setup:
 1. Clone the repository:
     ```
-    git clone https://github.com/your_username/image-classification.git
+    https://github.com/Abdul-Ansar/CS6910_Assignment_2.git
     ```
 
 2. Install dependencies:
